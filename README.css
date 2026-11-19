@@ -1,0 +1,307 @@
+# hhh-v-
+*{margin: 0px; /*通配符*/
+    border: 0px;
+    padding: 0px;
+
+}
+body{width: 100%;
+    overflow: hidden;/*高度自适应*/
+
+}
+.ass{
+    width: 1008px;
+    height: 641px;
+    margin: 60px auto; /* 外边距上下60像素，左右适中*/
+}
+    
+
+.assr{width: 1008px;
+    height:300px ;
+    background-color: red;  /*背景红色*/
+    border-radius:20px; /*圆角*/
+    z-index: 0;
+
+}
+.assr div{padding: 32px 118px 0px 118px;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: 700;
+    align-items: center;
+
+}
+.assr div span{font-size: 14px;
+    color: #fff;
+    width: 144px;
+    height: 21px;
+    font-weight: 300; /*文字加黑*/
+    right: 0px;
+
+}
+.assr div span img{
+    height: 14px;
+    width: 14px;
+    
+}
+.assr .as img{width: 56px;
+    height: 56px;
+
+}
+.assr ul {width: 183px;
+    height: 56px;
+    float: left; /* 左浮动*/
+    list-style: none; /*列表样式*/
+    padding-right: 70px;  /*右内边距 70像素*/
+}
+.assr ul li{float: left;
+
+}
+.asr{
+    height: 56px;
+    padding: 20px 100px 0px 100px;
+}
+.assr .aas{font-size: 16px;
+    width: 120px;
+    height: 28px;
+    padding-left: 7px;
+
+}
+
+.assr ul .aass{width: 120px;
+    height: 28px;
+    font-size: 12px;
+    padding-left: 7px;
+
+}
+.asss{width: 1008px;
+    height:442px ;
+    background-color: #f8f3f3;
+    border-radius:20px;
+    position: relative;
+    top: -120px;
+    z-index: 9;
+
+}
+.asss .asas {text-align: right;
+        align-items: center;
+        padding-block: 5px;
+    
+
+}
+.asss .asas a{font-size: 16px;
+    color:#171A26 ;
+    width: 96px;
+    text-decoration: none;
+    font-weight: 600;
+
+
+
+}
+.asss div a img{width: 12px;;
+    height: 12px;
+
+}
+.asss .s0{width: 504px;
+    height: 442px;
+    float: left;
+
+}
+.asas a:hover{
+    color: red;
+    text-decoration: underline; /*文本下划线*/
+}
+
+.asss ul .s01{
+    list-style: none;
+    width: 504px;
+    text-align: center; /*文本居中*/
+    font-size: 20px;
+    font-weight: 600;
+    color: #171A26;
+    margin: 0px auto 16px auto;
+    
+    
+
+}
+.asss .s0 .s02{width:504px;
+    float: left;
+    margin-top: 8px ;
+    margin-bottom: 15px;
+
+}
+.s02{
+    list-style: none;
+}
+.s03{
+    list-style: none;
+}
+.asss ul .s02 div{text-align: center;
+}
+
+.asss ul .s02 span img{
+    width: 17px;
+    height: 17px;
+    
+}
+.asss ul .s02 div a{text-decoration: none;/*文本下划线 无*/
+    color: #171A26;
+
+}
+.asss ul .s02 div a:hover{text-decoration: underline;
+    color: red;
+    
+
+}
+
+.asss ul .s03{width: 504px;
+    height: 213px;
+    float: left;
+    
+
+
+}
+.asss ul .s03 .s003 img{width:204px ;
+    height:204px;
+    margin-top:10px ;
+    margin-right: 150px;
+    margin-left:150px ;
+    
+    
+
+}
+.s1{width: 500px;
+    height: 442px;
+    float: right;
+
+}
+.asss .s1 li{
+    list-style: none;
+    margin: 10px 20px 10px 10px ;
+
+}
+.asss .s10{
+   padding: 12px 16px;
+}
+.asss .s10 li:nth-of-type(1){
+    width: 368px;
+    height: 20px;
+    margin-bottom:16px ;
+    text-align: center;
+    
+}
+.asss .s10 span{font-size: 20px;
+
+}
+
+.asss .s10 li:nth-of-type(2){
+    width: 368px;
+    height: 24px;
+    padding: 10px;
+    background-color:#e0d4d4 ;
+    margin-bottom:15px ;
+    
+}
+.asss .s10 li:nth-of-type(3){
+    width: 368px;
+    height: 24px;
+    padding: 10px;
+    background-color:#e0d4d4 ;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.asss .s10 li:nth-of-type(4){
+background-color: red;
+width: 368px; 
+height: 44px;
+padding: 10px;
+margin-top: 5px;
+
+    
+}
+.asss .s10 li:nth-of-type(4) input{width: 368px; 
+height: 44px;
+background-color: red;
+font-size: 20px;
+
+    
+
+}
+.asss .s10 li input{border: none;
+    background-color:#e0d4d4 ;
+    color: #ece1e1;
+    height: 24px;
+    
+} 
+.asss .s2 li{
+    float: left;
+    margin: 0px;
+    text-align: center;
+}
+
+.asss .s2 span{float: left;
+
+
+}
+.asss .s2 li img{
+    width: 17px;
+    vertical-align: middle;
+    
+}
+.s11{
+    padding-right:40px ;
+}
+.s22{
+    padding-left: 40px; 
+}
+.ss3 {float:left;
+    position: relative;/*绝对位移*/
+    top: -7px;/*上移7像素*/
+    
+}
+.ss3 form section{height: 24px;
+    margin-bottom:4px ;
+    color: #fff;
+    text-decoration: none;
+    background-color: #666;
+    
+}
+.ss4{
+    float: left;
+    text-align: center;
+}
+.s2{
+    width: 369px;
+    height: 50px;
+    margin-left: 16px;
+    margin-top: 20px;
+}
+.s2 li a{
+    font-size: 14px;
+    color:#171A26;
+    text-decoration: none;
+    margin: 0px;
+    text-align: center;
+    margin:0px 5px ;
+}
+.s2  span{
+    width: 5px;
+    height: 24px;
+    text-align: center;
+    margin:0px 5px ;
+}
+.s2 li a:hover{
+    color: red;
+    text-decoration: underline;
+}
+.s22{
+    text-decoration: none;
+}
+.s22:hover{color: black;
+    text-decoration: underline;
+
+}
+
+
+
+
+
+
